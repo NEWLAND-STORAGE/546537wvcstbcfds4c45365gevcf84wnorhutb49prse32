@@ -1,0 +1,80 @@
+Welcome to the Minecraft Project Newland!
+-----------------------------------------
+These Terms of Use ("Terms") govern your use of our Minecraft server and any related services provided by Newland ("we," "us," or "our"). By accessing or using our server, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our server.
+
+1. ACCEPTANCE OF TERMS
+----------------------
+By accessing or using our Minecraft server, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use our server.
+
+2. CHANGES TO TERMS
+-------------------
+We reserve the right to modify these Terms at any time. Any changes will be effective immediately upon posting the updated Terms on our website or server. Your continued use of the server following the posting of changes constitutes your acceptance of such changes.
+
+3. USE OF THE SERVER
+--------------------
+A) Eligibility: You must be at least 12 years old to use our server.
+
+B) User Conduct: You agree not to use our server for any unlawful purpose or in a way that infringes the rights of, restricts, or inhibits anyone else's use and enjoyment of the server. Prohibited activities include, but are not limited to:
+
+    -Harassing or causing distress or inconvenience to any person.
+    -Transmitting obscene or offensive content.
+    -Disrupting the normal flow of gameplay within the server.
+    -Impersonating any person or entity or misrepresenting your affiliation with any person or entity.
+    -Engaging in any activity that could harm or interfere with the operation of the server, including distributing viruses or other harmful software.
+
+4.RESOURCE PACK AND CONTENT USAGE
+----------------------------------
+A) Resource Pack: By downloading or using the resource pack provided on our server, you agree not to modify, redistribute, or use it for any purpose other than playing on our server without obtaining explicit permission from us. Unauthorized modification or use of the resource pack is strictly prohibited.
+
+B) Third-Party Content: Any content on our server not created by us, including but not limited to textures, models, and other assets, cannot be downloaded or used if a license is required for such use. You are responsible for ensuring compliance with any third-party licenses associated with such content.
+
+C) Music: The music included in our server is created by us and is not copyrighted. However, by accepting these Terms, you agree not to modify or use the music in any way without obtaining a license from us.
+
+5. INTELLECTUAL PROPERTY
+------------------------
+A) Ownership: All content on our server, including the resource pack, music, and other original materials, is owned by Newland or its licensors and is protected by intellectual property laws. Unauthorized use of any content on the server is strictly prohibited.
+
+B) License: Subject to your compliance with these Terms, we grant you a limited, non-exclusive, non-transferable, revocable license to access and use our server and the content solely for your personal, non-commercial use.
+
+6. USER-GENERATED CONTENT
+-------------------------
+A) Content Ownership: You retain ownership of any content you create and share on our server. By sharing content on our server, you grant us a worldwide, non-exclusive, royalty-free license to use, distribute, modify, and display your content in connection with the operation of the server.
+
+B) Responsibility: You are solely responsible for the content you create and share on our server. You agree not to upload or share any content that is unlawful, defamatory, obscene, or infringes the rights of any third party.
+
+7. DISCLAIMER OF WARRANTIES
+---------------------------
+OUR SERVER AND ALL CONTENT PROVIDED ARE OFFERED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. WE DO NOT GUARANTEE THAT THE SERVER WILL BE AVAILABLE AT ALL TIMES OR THAT IT WILL BE FREE OF ERRORS OR INTERRUPTIONS. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+--------------------------
+To the fullest extent permitted by law, Newland shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or in connection with your use of the server or these Terms, whether based on warranty, contract, tort (including negligence), or any other legal theory, even if we have been advised of the possibility of such damages.
+
+9. GOVERNING LAW
+----------------
+These Terms shall be governed by and construed in accordance with the laws of Germany, specifically the states of Hesse and North Rhine-Westphalia, without regard to their conflict of law principles. You agree to submit to the personal jurisdiction of the courts located within these states for the purpose of litigating all such claims or disputes.
+
+10. REPORTING VIOLATIONS
+------------------------
+If you become aware of any violation of these Terms, please report it to us at newland.spprt@gmail.com. We will investigate and take appropriate action as necessary
+
+11. INDEMNIFICATION
+-------------------
+You agree to indemnify, defend, and hold harmless Newland and its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, costs, expenses, or fees (including reasonable attorneys' fees) arising from your use of the server or your violation of these Terms.
+
+12. SEVERABILITY
+----------------
+If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions will continue to be valid and enforceable to the fullest extent permitted by law.
+
+16. ENTIRE AGREEMENT
+--------------------
+These Terms constitute the entire agreement between you and Newland regarding the use of our server and supersede all prior agreements and understandings, whether written or oral, relating to such use.
+
+17. CONTACT US
+--------------
+If you have any questions about these Terms, please contact us at newland.spprt@gmail.com.
+
+By using our Minecraft server, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use.
+
+----------
+DISCLAIMER: IF YOU NO LONGER ACCEPT THESE TERMS, YOU MUST CEASE USING OUR SERVER IMMEDIATELY AND DELETE ANY FILES, INCLUDING THE RESOURCE PACK AND ANY OTHER CONTENT PROVIDED BY US, THAT YOU OBTAINED DUE TO YOUR ACCEPTANCE OF THESE TERMS. SCREENSHOTS AND VIDEOS CREATED BY YOU ARE EXCLUDED FROM THIS REQUIREMENT.
